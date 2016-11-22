@@ -23,6 +23,11 @@ h2 {
 	margin: 8%;
 }
 
+.img {
+	height: 200px;
+	width: 150px;
+}
+
 .nav-link {
 	background-color: #ffbf00;
 	color: #ffffff;
